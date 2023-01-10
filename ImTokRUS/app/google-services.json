@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "818593141670",
+    "firebase_url": "https://intokrus-a0a07-default-rtdb.firebaseio.com",
+    "project_id": "intokrus-a0a07",
+    "storage_bucket": "intokrus-a0a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818593141670:android:f76d1a89eb6959825ab567",
+        "android_client_info": {
+          "package_name": "com.simbastudio.imtokrus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818593141670-ak2cd2qp4gdgde91il14u3sa0l2mdu5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simbastudio.imtokrus",
+            "certificate_hash": "5a980c5079c3e6ad8c72ce7ca0dda2edfe9ed9db"
+          }
+        },
+        {
+          "client_id": "818593141670-j94k29rf0a5b1fu7j1e1ag2meo915oln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simbastudio.imtokrus",
+            "certificate_hash": "7b5a575ee1d9b393d7ba72e104b7a59f6418370a"
+          }
+        },
+        {
+          "client_id": "818593141670-jpon5pigs6suoji8hbnetfr40klpfuvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxk3SLB8kzxRFZva40cXRlMdp4IqmLkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818593141670-jpon5pigs6suoji8hbnetfr40klpfuvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
